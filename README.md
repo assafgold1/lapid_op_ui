@@ -4,47 +4,45 @@
 ______________________________
 #### files info -
 
-Assaf@assafs-MacBook-Pro Lapid Operational Whiskey % node cake.js
-Total files: 50836
-- .js    ██████████████████████                             44.14%
-- .ts    ████████                                           15.03%
-- .map   ███████                                            13.62%
-- .png   ███                                                6.70%
-- .json  ██                                                 4.85%
-- .md    ██                                                 4.29%
-- .h     ██                                                 3.02%
-- .java  █                                                  2.24%
-- .tsx   █                                                  1.18%
-- .cpp   █                                                  1.03%
-- .swift                                                    0.90%
-- .svg                                                      0.78%
-- .xml                                                      0.64%
-- .yml                                                      0.39%
-- .txt                                                      0.33%
-- .class                                                    0.29%
-- .html                                                     0.14%
-- .pem                                                      0.08%
-- .properties                                               0.07%
-- .rb                                                       0.06%
-- .jpg                                                      0.06%
-- .css                                                      0.04%
+Assaf@assafs-MacBook-Pro Desktop % node cake.js
+Total files: 77928
+- .js    ██████████████████████                             43.88%
+- .ts    ███████                                            14.37%
+- .map   ██████                                             11.17%
+- .json  ██                                                 4.86%
+- .md    ██                                                 4.71%
+- .h     ██                                                 4.57%
+- .png   ██                                                 4.53%
+- .java  ██                                                 3.26%
+- .cpp   █                                                  1.72%
+- .kt    █                                                  1.24%
+- .xml                                                      0.86%
+- .tsx                                                      0.78%
+- .svg                                                      0.76%
+- .m                                                        0.70%
+- .swift                                                    0.58%
+- .txt                                                      0.49%
+- .yml                                                      0.44%
+- .class                                                    0.19%
+- .html                                                     0.13%
+- .sh                                                       0.11%
+- .rb                                                       0.08%
+- .jpg                                                      0.07%
+- .s                                                        0.07%
+- .properties                                               0.06%
+- .pem                                                      0.05%
+- .lua                                                      0.04%
+- .dll                                                      0.03%
 - .plist                                                    0.03%
+- .coffee                                                   0.03%
+- .css                                                      0.03%
+- .kts                                                      0.03%
+- .pro                                                      0.03%
 - .bat                                                      0.02%
-- .dll                                                      0.02%
 - .exe                                                      0.01%
 - .conf                                                     0.01%
-- .cs                                                       0.01%
-- .bak                                                      0.00%
-- .toml                                                     0.00%
-- .py                                                       0.00%
-- .log                                                      0.00%
-- .rtf                                                      0.00%
-- .mp3                                                      0.00%
-- .zip                                                      0.00%
-- .scss                                                     0.00%
-- .cmd                                                      0.00%
-- .env                                                      0.00%
-- .webp                                                     0.00%
+- .toml                                                     0.01%
+- .bak                                                      0.01%
 Assaf@assafs-MacBook-Pro Lapid Operational Whiskey % 
 
 
@@ -95,10 +93,6 @@ If you have any feedback, please reach out to us at fake@fake.com
 <table>
   <tr>
     <td align="center"><img src="https://i.ibb.co/XLHrywc/he.png" width="100px;" alt="Ben Hong"/><br /><sub><b>Hebrew</td>
-    <td align="center"><img src="https://i.ibb.co/XLHrywc/en.png" width="100px;" alt="Ben Hong"/><br /><sub><b>English</td>
-    <td align="center"><img src="https://i.ibb.co/XLHrywc/es.png" width="100px;" alt="Ben Hong"/><br /><sub><b>Spanish</td>
-    <td align="center"><img src="https://i.ibb.co/XLHrywc/rs.png" width="100px;" alt="Ben Hong"/><br /><sub><b>russian</td>
-    <td align="center"><img src="https://i.ibb.co/XLHrywc/gr.png" width="100px;" alt="Ben Hong"/><br /><sub><b>german</td>
   </tr>
 </table
 
