@@ -92,7 +92,32 @@ If you have any feedback, please reach out to us at assaf@taninoni.com
 ## Screenshots
 <table>
   <tr>
-    <td align="center"><img src="https://i.ibb.co/XLHrywc/he.png" width="100px;" alt="Ben Hong"/><br /><sub><b>Hebrew</td>
+    <td align="center"><img src="https://i.ibb.co/M73Vwk2/he.png" width="300px;" alt="Ben Hong"/><br /><sub><b>Hebrew</td>
+    <td align="center"><img src="https://i.ibb.co/KLQk5PK/en.png" width="300px;" alt="Ben Hong"/><br /><sub><b>English</td>
+    <td align="center"><img src="https://i.ibb.co/DMHxvmk/es.png" width="300px;" alt="Ben Hong"/><br /><sub><b>Spanish</td>
+    <td align="center"><img src="https://i.ibb.co/ZgN987P/it.png" width="300px;" alt="Ben Hong"/><br /><sub><b>italian</td>
+    <td align="center"><img src="https://i.ibb.co/Bq55rLY/fr.png" width="300px;" alt="Ben Hong"/><br /><sub><b>french</td>
+    <td align="center"><img src="https://i.ibb.co/C87yzfb/rs.png" width="300px;" alt="Ben Hong"/><br /><sub><b>russian</td>
+  </tr>
+</table>
+
+#######
+<table>
+  <tr>
+    <td align="center"><img src="https://i.ibb.co/DQ7L1LJ/list.png" width="300px;" alt="Ben Hong"/><br /><sub><b>רשת ניצן - תדרים</td>
+    <td align="center"><img src="https://i.ibb.co/h10h5dc/apx.png" width="300px;" alt="Ben Hong"/><br /><sub><b>רשת ניצן - תקשורת</td>
+    <td align="center"><img src="https://i.ibb.co/9ZWL8pT/main.png" width="300px;" alt="Ben Hong"/><br /><sub><b>מסך ראשי</td>
+    <td align="center"><img src="https://i.ibb.co/L5HbDN5/shift.png" width="300px;" alt="Ben Hong"/><br /><sub><b>כניסה למשמרת </td>
+  </tr>
+</table
+
+
+####### some data form the 7 of October 2023
+<table>
+  <tr>
+    <td align="center"><img src="https://i.ibb.co/cNVyTSN/smsmain.png" width="300px;" alt="Ben Hong"/><br /><sub><b>עדכון אישי(אופציונלי)</td>
+    <td align="center"><img src="https://i.ibb.co/5nB4XR3/alert2.png" width="300px;" alt="Ben Hong"/><br /><sub><b>קבלת התרעה ברגע שנפתח אירוע</td>
+    <td align="center"><img src="https://i.ibb.co/6ZcXxXV/a.png" width="300px;" alt="Ben Hong"/><br /><sub><b> התרעה בדיקה</td>
   </tr>
 </table
 
