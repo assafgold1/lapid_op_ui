@@ -109,6 +109,14 @@ If you have any feedback, please reach out to us at assaf@taninoni.com
     <td align="center"><img src="https://i.ibb.co/9ZWL8pT/main.png" width="300px;" alt="Ben Hong"/><br /><sub><b>מסך ראשי</td>
     <td align="center"><img src="https://i.ibb.co/L5HbDN5/shift.png" width="300px;" alt="Ben Hong"/><br /><sub><b>כניסה למשמרת </td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://i.ibb.co/mb2267v/Screenshot-1720398021.png" width="300px;" alt="Ben Hong"/><br /><sub><b>רשת ניצן - תדרים</td>
+    <td align="center"><img src="https://i.ibb.co/h10h5dc/apx.png" width="300px;" alt="Ben Hong"/><br /><sub><b>רשת ניצן - תקשורת</td>
+    <td align="center"><img src="https://i.ibb.co/GkPNTht/Screenshot-1720397914.png" width="300px;" alt="Ben Hong"/><br /><sub><b>מסך ראשי</td>
+    <td align="center"><img src="https://i.ibb.co/6sndsHT/Screenshot-1720398076.png" width="300px;" alt="Ben Hong"/><br /><sub><b>כניסה למשמרת </td>
+  </tr>
+
+
 </table
 
 
@@ -118,6 +126,11 @@ If you have any feedback, please reach out to us at assaf@taninoni.com
     <td align="center"><img src="https://i.ibb.co/cNVyTSN/smsmain.png" width="300px;" alt="Ben Hong"/><br /><sub><b>עדכון אישי(אופציונלי)</td>
     <td align="center"><img src="https://i.ibb.co/5nB4XR3/alert2.png" width="300px;" alt="Ben Hong"/><br /><sub><b>קבלת התרעה ברגע שנפתח אירוע</td>
     <td align="center"><img src="https://i.ibb.co/6ZcXxXV/a.png" width="300px;" alt="Ben Hong"/><br /><sub><b> התרעה בדיקה</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://i.ibb.co/ZhXKbz1/Screenshot-1720397737.png" width="300px;" alt="Ben Hong"/><br /><sub><b>android עדכון אישי(אופציונלי)</td>
+    <td align="center"><img src="https://i.ibb.co/cJCNZd7/Screenshot-1720397791.png" width="300px;" alt="Ben Hong"/><br /><sub><b>android קבלת התרעה ברגע שנפתח אירוע</td>
+    <td align="center"><img src="https://i.ibb.co/XFjgXBv/Screenshot-1720397364.png" width="300px;" alt="Ben Hong"/><br /><sub><b> android התרעה בדיקה</td>
   </tr>
 </table
 
