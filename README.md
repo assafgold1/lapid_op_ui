@@ -64,57 +64,8 @@ If you have any feedback, please reach out to us at assaf@taninoni.com
 ![Logo](https://i.ibb.co/thCxSt2/kanfi-fire.png)
 
 
-## Screenshots
-<table>
-  <tr>
-    <td align="center"><img src="https://i.ibb.co/M73Vwk2/he.png" width="300px;" alt="Ben Hong"/><br /><sub><b>Hebrew</td>
-    <td align="center"><img src="https://i.ibb.co/KLQk5PK/en.png" width="300px;" alt="Ben Hong"/><br /><sub><b>English</td>
-    <td align="center"><img src="https://i.ibb.co/DMHxvmk/es.png" width="300px;" alt="Ben Hong"/><br /><sub><b>Spanish</td>
-    <td align="center"><img src="https://i.ibb.co/ZgN987P/it.png" width="300px;" alt="Ben Hong"/><br /><sub><b>italian</td>
-    <td align="center"><img src="https://i.ibb.co/Bq55rLY/fr.png" width="300px;" alt="Ben Hong"/><br /><sub><b>french</td>
-    <td align="center"><img src="https://i.ibb.co/C87yzfb/rs.png" width="300px;" alt="Ben Hong"/><br /><sub><b>russian</td>
-  </tr>
-</table>
-
-#######
-<table>
-  <tr>
-    <td align="center"><img src="https://i.ibb.co/DQ7L1LJ/list.png" width="300px;" alt="Ben Hong"/><br /><sub><b>רשת ניצן - תדרים</td>
-    <td align="center"><img src="https://i.ibb.co/h10h5dc/apx.png" width="300px;" alt="Ben Hong"/><br /><sub><b>רשת ניצן - תקשורת</td>
-    <td align="center"><img src="https://i.ibb.co/9ZWL8pT/main.png" width="300px;" alt="Ben Hong"/><br /><sub><b>מסך ראשי</td>
-    <td align="center"><img src="https://i.ibb.co/L5HbDN5/shift.png" width="300px;" alt="Ben Hong"/><br /><sub><b>כניסה למשמרת </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://i.ibb.co/1tqMGBy5/Screenshot-2025-03-30-at-6-16-48.png" width="300px;" alt="Ben Hong"/><br /><sub><b>פרטי אירוע</td>
-    <td align="center"><img src="https://ibb.co/LqFPmX1" width="300px;" alt="Ben Hong"/><br /><sub><b>המשך</td>
-    <td align="center"><img src="https://ibb.co/JWLXB30w" width="300px;" alt="Ben Hong"/><br /><sub><b>פתיחת שערים</td>
-    <td align="center"><img src="https://ibb.co/ycRjc4yB" width="300px;" alt="Ben Hong"/><br /><sub><b>שער נפתח </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://i.ibb.co/mb2267v/Screenshot-1720398021.png" width="300px;" alt="Ben Hong"/><br /><sub><b>רשת ניצן - תדרים</td>
-    <td align="center"><img src="https://i.ibb.co/h10h5dc/apx.png" width="300px;" alt="Ben Hong"/><br /><sub><b>רשת ניצן - תקשורת</td>
-    <td align="center"><img src="https://i.ibb.co/GkPNTht/Screenshot-1720397914.png" width="300px;" alt="Ben Hong"/><br /><sub><b>מסך ראשי</td>
-    <td align="center"><img src="https://i.ibb.co/6sndsHT/Screenshot-1720398076.png" width="300px;" alt="Ben Hong"/><br /><sub><b>כניסה למשמרת </td>
-  </tr>
-  
-
-
-</table
-
-
 ####### some data form the 7 of October 2023
-<table>
-  <tr>
-    <td align="center"><img src="https://i.ibb.co/cNVyTSN/smsmain.png" width="300px;" alt="Ben Hong"/><br /><sub><b>עדכון אישי(אופציונלי)</td>
-    <td align="center"><img src="https://i.ibb.co/5nB4XR3/alert2.png" width="300px;" alt="Ben Hong"/><br /><sub><b>קבלת התרעה ברגע שנפתח אירוע</td>
-    <td align="center"><img src="https://i.ibb.co/6ZcXxXV/a.png" width="300px;" alt="Ben Hong"/><br /><sub><b> התרעה בדיקה</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://i.ibb.co/ZhXKbz1/Screenshot-1720397737.png" width="300px;" alt="Ben Hong"/><br /><sub><b>android עדכון אישי(אופציונלי)</td>
-    <td align="center"><img src="https://i.ibb.co/cJCNZd7/Screenshot-1720397791.png" width="300px;" alt="Ben Hong"/><br /><sub><b>android קבלת התרעה ברגע שנפתח אירוע</td>
-    <td align="center"><img src="https://i.ibb.co/XFjgXBv/Screenshot-1720397364.png" width="300px;" alt="Ben Hong"/><br /><sub><b> android התרעה בדיקה</td>
-  </tr>
-</table
+
 
 ## Support
 
