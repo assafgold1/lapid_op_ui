@@ -1,5 +1,18 @@
+# Lapid Operational Whiskey UI/UX By Assaf
 
-# Lapid Operational Whiskey UI/UX By Assaf && Dvir 
+
+רשימת פיצרים
+- חיבור לרשת מוטורולה apx ( ננטש אבל הקוד קיים במערכת (לא היה לי שום שרת כדי לבצע עליו בדיקות ))
+-  לפתיחת שערים בתחנות api pal gate
+- מצב לא זמין על מנת לא לקבל התרעות
+- שגר לאירוע הקרוב נגיד אני נמצא בשדרות רחעבם זאבי ויש שני אירועים פתוחים אחד בחיל התותחנים ואחד ברוטשילד אז אני ישוגר אוטומטית לאירוע ברחוב חיל התותחנים
+- חנות מכר - נכנסה לתוך אפליקציה אחת במקום לאפליקציה לעובדי הכבאות נשאר אותו הקונספט חוץ משינוי בui
+- התייצבות למשמרת נשאר אותו הדבר חוץ משינוי בui
+- נוספו מס שפות שונות אנגלית ספרדית רוסית ועוד כמה
+- נוספה מערכת מותאמת לעבודה עם apple CarPlay ו android auto
+- נוסף קומפייל לעבודה מול apple watch
+- נוסף push notifications להתראות צבע אדום באזור עבודה עם api של פקע״ר נותב לצופר ( https://api.tzevaadom.co.il/notifications )
+- אני לא זוכר מה עוד דחפתי שם אבל עוד הרבה
 ![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)
 
 #### files info -
@@ -43,14 +56,6 @@ Start Server
   node server
 ```
 
-## Features
-
-- open same gates via palgate api 
-- send sames images to the operational rooms
-- 
-- Cross platform
-
-
 ## Feedback
 
 If you have any feedback, please reach out to us at assaf@taninoni.com
@@ -80,11 +85,18 @@ If you have any feedback, please reach out to us at assaf@taninoni.com
     <td align="center"><img src="https://i.ibb.co/L5HbDN5/shift.png" width="300px;" alt="Ben Hong"/><br /><sub><b>כניסה למשמרת </td>
   </tr>
   <tr>
+    <td align="center"><img src="https://i.ibb.co/1tqMGBy5/Screenshot-2025-03-30-at-6-16-48.png" width="300px;" alt="Ben Hong"/><br /><sub><b>פרטי אירוע</td>
+    <td align="center"><img src="https://ibb.co/LqFPmX1" width="300px;" alt="Ben Hong"/><br /><sub><b>המשך</td>
+    <td align="center"><img src="https://ibb.co/JWLXB30w" width="300px;" alt="Ben Hong"/><br /><sub><b>פתיחת שערים</td>
+    <td align="center"><img src="https://ibb.co/ycRjc4yB" width="300px;" alt="Ben Hong"/><br /><sub><b>שער נפתח </td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://i.ibb.co/mb2267v/Screenshot-1720398021.png" width="300px;" alt="Ben Hong"/><br /><sub><b>רשת ניצן - תדרים</td>
     <td align="center"><img src="https://i.ibb.co/h10h5dc/apx.png" width="300px;" alt="Ben Hong"/><br /><sub><b>רשת ניצן - תקשורת</td>
     <td align="center"><img src="https://i.ibb.co/GkPNTht/Screenshot-1720397914.png" width="300px;" alt="Ben Hong"/><br /><sub><b>מסך ראשי</td>
     <td align="center"><img src="https://i.ibb.co/6sndsHT/Screenshot-1720398076.png" width="300px;" alt="Ben Hong"/><br /><sub><b>כניסה למשמרת </td>
   </tr>
+  
 
 
 </table
